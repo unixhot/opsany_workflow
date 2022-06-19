@@ -1,2 +1,1 @@
-# opsany_workflow
-opsany_workflow
+st2 pack opsany workflow core
